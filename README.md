@@ -11,4 +11,8 @@ This is very rough draft, copy-and-pasted from examples and tweaked until it wor
 ```
 HCL=*.tf;*.tfvars;
 ```
+
+- Optional: copy main.tf to ~/.config/geany/templates/files/main.tf
+
+   This will make template file accessible from  File -> New (with Template) -> main.tf
 - Restart Geany
