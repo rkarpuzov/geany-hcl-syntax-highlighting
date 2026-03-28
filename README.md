@@ -1,3 +1,8 @@
+# DEPRECATED
+
+The contents of this repository have been added directly to Geany, starting from version 2.1.
+
+
 # geany-hcl-syntax-highlighting
 Custom configuration file for the Geany text editor that allows highlighting of Terraform's HCL (Hashicorp configuration files) files. Only supports highlighting of AWS resources.
 
